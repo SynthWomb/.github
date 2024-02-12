@@ -11,6 +11,11 @@
   <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%23323330.svg?&style=for-the-badge&logo=css3&logoColor=black&color=white"/>
   <img alt="Python" src="https://img.shields.io/badge/python%20-%23323330.svg?&style=for-the-badge&logo=python&logoColor=black&color=white"/>
 </div>
+
+Welcome to SynthWomb, where innovation converges with computation. SynthWomb is a cutting-edge computer science lab dedicated to pushing the boundaries of artificial intelligence and computational creativity. Spearheaded by a team of passionate technologists and visionaries, SynthWomb thrives on the synergy of advanced technologies, blending the realms of natural language processing, computer vision, and generative art.
+
+Our mission at SynthWomb is to birth new possibilities in the digital realm, birthing synthetic intelligence that transcends conventional boundaries. Through the strategic integration of powerful libraries such as Hugging Face Transformers, TensorFlow, AutoTokenizer, and DeepFace, we embark on a journey to redefine the intersection of humanity and technology.
+
 <br>
 <div align="center">
 <a href="https://github.com/SynthWomb" target="_blank" align="center">
