@@ -11,6 +11,7 @@
   <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%23323330.svg?&style=for-the-badge&logo=css3&logoColor=black&color=white"/>
   <img alt="Python" src="https://img.shields.io/badge/python%20-%23323330.svg?&style=for-the-badge&logo=python&logoColor=black&color=white"/>
 </div>
+<br>
 
 Welcome to SynthWomb, where innovation converges with computation. SynthWomb is a computer science lab dedicated to pushing the boundaries of artificial intelligence and computational creativity. Spearheaded by a team of passionate technologists and visionaries, SynthWomb thrives on the synergy of advanced technologies, blending the realms of natural language processing, computer vision, and generative art.
 
