@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://github.com/SynthWomb" target="_blank" align="center">
+<a href="https://synthwomb.github.io/synth.womb/" target="_blank" align="center">
     <img src="https://github.com/SynthWomb/synth.womb/blob/main/logos/synthwomb07.png"
         alt="SynthWomb">
 </a>
@@ -19,7 +19,7 @@ Our mission at SynthWomb is to birth new possibilities in the digital realm, bir
 
 <br>
 <div align="center">
-<a href="https://github.com/SynthWomb" target="_blank" align="center">
+<a href="https://synthwomb.github.io/synth.womb/" target="_blank" align="center">
     <img src="https://github.com/SynthWomb/synth.womb/blob/main/logos/synthwomb-promo.png"
         alt="SynthWomb">
 </a>
