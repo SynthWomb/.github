@@ -21,7 +21,7 @@
 
 Welcome to SynthWomb, where innovation converges with computation. SynthWomb is a computer science lab dedicated to pushing the boundaries of artificial intelligence and computational creativity. SynthWomb thrives on the synergy of advanced technologies, blending the realms of natural language processing, computer vision, and generative art.
 
-Our mission at SynthWomb is to birth new possibilities in the digital realm, birthing synthetic intelligence that transcends conventional boundaries. Through the strategic integration of powerful libraries such as Hugging Face Transformers, TensorFlow, AutoTokenizer, and DeepFace, we embark on a journey to redefine the intersection of humanity and technology.
+The mission at SynthWomb is to birth new possibilities in the digital realm, birthing synthetic intelligence that transcends conventional boundaries. Through the strategic integration of powerful libraries such as Hugging Face Transformers, TensorFlow, AutoTokenizer, and DeepFace, we embark on a journey to redefine the intersection of humanity and technology.
 
 <br>
 <div align="center">
