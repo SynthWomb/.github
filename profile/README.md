@@ -12,7 +12,6 @@
   <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231F5B94.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
       <img alt="JSON" src="https://img.shields.io/badge/jason3%20-%231F5B94.svg?&style=for-the-badge&logo=json3&logoColor=white"/>
 </div>
-<br>
 <div align="center">
     <img alt="TensorFlow" src="https://img.shields.io/badge/tensorflow%20-%231F5B94.svg?&style=for-the-badge&logo=tensorflow&logoColor=white"/>
     <img alt="Flask" src="https://img.shields.io/badge/flask%20-%231F5B94.svg?&style=for-the-badge&logo=flask&logoColor=white"/>
