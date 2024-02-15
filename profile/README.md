@@ -32,7 +32,6 @@ The mission at SynthWomb is to birth new possibilities in the digital realm, bir
 </div>
     <br>
 <div align="center">
-    https://synthwomb-synthia.onrender.com/
 <a href="https://github.com/CursedPrograms" target="_blank">
     <img src="https://github.com/CursedPrograms/cursedentertainment/raw/main/images/logos/logo-wide-grey.png"
         alt="CursedEntertainment Logo" style="width:250px;">
