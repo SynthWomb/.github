@@ -24,9 +24,7 @@ Welcome to SynthWomb, where innovation converges with computation. SynthWomb is 
 The mission at SynthWomb is to birth new possibilities in the digital realm, birthing synthetic intelligence that transcends conventional boundaries. Through the strategic integration of powerful libraries such as Hugging Face Transformers, TensorFlow, AutoTokenizer, and DeepFace, we embark on a journey to redefine the intersection of humanity and technology.
 
 <br>
-<div align="center">
-© SynthWomb / Cursed Entertainment 2024
-  </div>
+
 <br>
 <div align="center">
 <a href="https://synthwomb.github.io/synth.womb/" target="_blank" align="center">
@@ -34,7 +32,9 @@ The mission at SynthWomb is to birth new possibilities in the digital realm, bir
         alt="SynthWomb">
 </a>
 </div>
-    <br>
+<div align="center">
+© SynthWomb / Cursed Entertainment 2024
+  </div>
 <div align="center">
 <a href="https://github.com/CursedPrograms" target="_blank">
     <img src="https://github.com/CursedPrograms/cursedentertainment/raw/main/images/logos/logo-wide-grey.png"
