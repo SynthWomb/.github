@@ -25,6 +25,10 @@ The mission at SynthWomb is to birth new possibilities in the digital realm, bir
 
 <br>
 <div align="center">
+© SynthWomb / Cursed Entertainment 2024
+  </div>
+<br>
+<div align="center">
 <a href="https://synthwomb.github.io/synth.womb/" target="_blank" align="center">
     <img src="https://github.com/SynthWomb/synth.womb/blob/main/logos/synthwomb-promo.png"
         alt="SynthWomb">
